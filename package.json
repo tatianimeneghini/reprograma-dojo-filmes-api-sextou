@@ -1,0 +1,26 @@
+{
+  "name": "reprograma-api-sextou",
+  "version": "1.0.0",
+  "description": "Semana 9 - API Sextou",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tatianimeneghini/reprograma-api-sextou.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Tatiani Meneghini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tatianimeneghini/reprograma-api-sextou/issues"
+  },
+  "homepage": "https://github.com/tatianimeneghini/reprograma-api-sextou#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.0"
+  }
+}
